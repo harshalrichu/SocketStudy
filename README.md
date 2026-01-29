@@ -85,13 +85,13 @@ c.close()
 ## output
 client:
 
-<img width="311" height="35" alt="image" src="https://github.com/user-attachments/assets/4da35538-3c02-4890-895f-5f94bd4b6432" />
+<img width="311" height="35" alt="Screenshot 2026-01-29 215313" src="https://github.com/user-attachments/assets/5b07b4d9-41d7-4563-bd2a-670ef6dd1862" />
+
 
 
 sever:
 
-<img width="302" height="63" alt="image" src="https://github.com/user-attachments/assets/508ae938-5ce3-4e73-9e74-e27d7c8d8921" />
-
+<img width="302" height="64" alt="Screenshot 2026-01-29 215344" src="https://github.com/user-attachments/assets/407ff716-e697-4415-8517-6b028a362054" />
 
 
 
